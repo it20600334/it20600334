@@ -8,7 +8,7 @@
 - 📫 How to reach me: erandalaksitha@gmail.com
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-https://github-readme-streak-stats.herokuapp.com/?user=it20600334
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=it20600334 &theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
