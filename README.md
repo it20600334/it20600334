@@ -9,4 +9,5 @@
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=it20600334
-[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
